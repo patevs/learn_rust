@@ -1,0 +1,6 @@
+[package]
+name = "hello_net"
+version = "0.2.0"
+authors = ["patevs <ppevans11@gmail.com>"]
+
+[dependencies]
