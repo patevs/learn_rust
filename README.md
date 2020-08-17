@@ -1,6 +1,6 @@
-# Semantic Template
+# Learn Rust
 
-> A Template repository for semantically versioned projects.
+> Links, resources, and code related to my learning of the Rust programming language.
 
 ---
 
