@@ -1,12 +1,12 @@
 {
-  "name": "semantic-template",
-  "version": "1.2.2",
-  "description": "A Template repository for semantically versioned projects",
+  "name": "learn-rust",
+  "version": "0.0.0",
+  "description": "Links, resources, and code related to my learning of the Rust programming language",
   "author": "PatEvs",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/patevs/semantic-template.git"
+    "url": "git+https://github.com/patevs/learn-rust.git"
   },
   "engines": {
     "node": ">=10.21.0",
