@@ -18,10 +18,12 @@
 
 ```md
 .
-├── .commitlintrc.js    # Commitlint configuration
+├── 0_hello_rust        # Basic Rust example program
+├── 1_testing           # Testing Rust code
+├── 2_network           # Networking in rust
+├── 3_graphics          # 2D Graphics in rust using piston
 ├── .editorconfig       # Editor configuration
 ├── .gitignore          # Git ignore rules
-├── .huskyrc            # Husky configuration
 ├── .np-config.js       # Npm publish (np) configuration
 ├── LICENSE
 ├── package.json        # Npm package configuration
