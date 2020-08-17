@@ -1,12 +1,12 @@
 {
   "name": "learn-rust",
-  "version": "1.0.0",
+  "version": "0.0.0",
   "description": "Links, resources, and code related to my learning of the Rust programming language",
   "author": "PatEvs",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/patevs/learn-rust.git"
+    "url": "git+https://github.com/patevs/learn_rust.git"
   },
   "engines": {
     "node": ">=10.21.0",
