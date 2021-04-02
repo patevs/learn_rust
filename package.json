@@ -13,9 +13,9 @@
     "npm": ">=6.8.0"
   },
   "scripts": {
+    "updates": "npx ncu",
     "release": "np"
   },
-  "dependencies": {},
   "devDependencies": {
     "@commitlint/cli": "^12.1.1",
     "commitlint-config-gitmoji": "^2.2.3",
