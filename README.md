@@ -21,9 +21,9 @@
 ├── .editorconfig       # Editor configuration
 ├── .gitignore          # Git ignore rules
 ├── .np-config.js       # Npm publish (np) configuration
-├── LICENSE
+├── LICENSE             # Project license
 ├── package.json        # Npm package configuration
-└── README.md
+└── README.md           # Project readme
 ```
 
 ---
