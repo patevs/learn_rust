@@ -20,7 +20,7 @@
   "dependencies": {},
   "devDependencies": {
     "@commitlint/cli": "^12.1.1",
-    "commitlint-config-gitmoji": "^1.0.1",
+    "commitlint-config-gitmoji": "^2.2.3",
     "husky": "^4.2.5",
     "np": "^7.4.0"
   },
