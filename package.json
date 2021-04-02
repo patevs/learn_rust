@@ -10,12 +10,10 @@
   },
   "engines": {
     "node": ">=10.21.0",
-    "npm": ">=6.8.0",
-    "git": ">=2.13.2"
+    "npm": ">=6.8.0"
   },
   "scripts": {
-    "release": "np",
-    "test": "echo \"Error: no test specified\" && exit 0"
+    "release": "np"
   },
   "dependencies": {},
   "devDependencies": {
@@ -23,11 +21,6 @@
     "commitlint-config-gitmoji": "^2.2.3",
     "husky": "^4.2.5",
     "np": "^7.4.0"
-  },
-  "husky": {
-    "hooks": {
-      "commit-msg": "commitlint -E HUSKY_GIT_PARAMS"
-    }
   },
   "commitlint": {
     "extends": [
@@ -37,6 +30,11 @@
       "header-max-length": [0, "always", 80],
       "subject-empty": [0, "never"],
       "type-empty": [0, "never"]
+    }
+  },
+  "husky": {
+    "hooks": {
+      "commit-msg": "commitlint -E HUSKY_GIT_PARAMS"
     }
   }
 }
