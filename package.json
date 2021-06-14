@@ -20,7 +20,7 @@
     "@commitlint/cli": "^12.1.4",
     "commitlint-config-gitmoji": "^2.2.5",
     "husky": "^4.2.5",
-    "np": "^7.4.0"
+    "np": "^7.5.0"
   },
   "commitlint": {
     "extends": [
