@@ -14,6 +14,7 @@
 
 ```md
 .
+├── .husky              # Husky configuration
 ├── src                 # Source Code
 │   ├── 0_hello_rust    # Basic Rust example program
 │   ├── 1_testing       # Testing Rust code
