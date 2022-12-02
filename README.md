@@ -20,12 +20,13 @@
 │   ├── 1_testing       # Testing Rust code
 │   ├── 2_network       # Networking in rust
 │   └── 3_graphics      # 2D Graphics in rust using piston
+├── .commitlintrc       # Commitlint configuration
 ├── .editorconfig       # Editor configuration
 ├── .gitignore          # Git ignore rules
 ├── .np-config.js       # NPM publish (np) configuration
-├── LICENSE             # Project license
+├── LICENSE             # Project LICENSE
 ├── package.json        # NPM package configuration
-└── README.md           # Project readme
+└── README.md           # Project README
 ```
 
 ---
